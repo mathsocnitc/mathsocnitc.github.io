@@ -5,6 +5,7 @@ These are the list of upcoming competitions and exams we aim to take part in -
 |  Name   |   Description  |    Date  |    Link   |
 |-------- | -------------- | -------- | --------- |
 | Srinivasa Ramanujan Mathematics Competition | National-Level olympiad-style contest, aimed at high school graduates and college students | June 29, 2025 | https://srmc.mathiitm.com/ |
+| Online Physics Olympiad | Annual team based physics competition for both high school students and undergraduates of all levels | August 7-9, 2025 | https://opho.physoly.tech/ |
 | Simon Marais Math Competition | Undergrad math competition, like Putnam | October 11, 2025 | https://www.simonmarais.org/ |
 | International Olympiad in Cryptography Non-Stop University CRYPTO | Cryptography olympiad involving theoretical math problems | October 12, 2025 | https://nsucrypto.nsu.ru/ |
 | University Physics Competition | Research-type undergrad physics contest | Around November 2025 | https://www.uphysicsc.com/home.html |
