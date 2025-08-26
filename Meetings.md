@@ -6,7 +6,7 @@ This page contains links to all MathSoc meeting minutes, sorted in reverse chron
 
 ## 2025
 - **August 11, 2025** — [Meeting Minutes](./Meeting_Aug_11.md)
-
+- **August 26, 2025** - [Meeting Minutes](./Meeting_Aug_26_2025.md)
 ---
 
 
